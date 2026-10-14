@@ -1,0 +1,6 @@
+{
+  "name": "VayNhanh - Hỗ Trợ Nợ Xấu 24/7",
+  "description": "Nền tảng vay tiền nhanh trực tuyến hỗ trợ nợ xấu duyệt trong 5 phút, tích hợp tính lãi suất tự động, biểu đồ trả nợ và chatbot tài chính 24/7.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
